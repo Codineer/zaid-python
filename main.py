@@ -1,6 +1,6 @@
 import scapy.all as scapy
 import subprocess
-subprocess.call('pip install scapy')
+subprocess.call('pip install scapy',shell=True)
 # def get_arguments():
 #     import optparse
 #     parser = optparse.OptionParser()
