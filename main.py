@@ -52,5 +52,3 @@ def print_scan(answerlist):
 options=get_arguments()
 print_scan(scan(options.ip_ad))
 
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
